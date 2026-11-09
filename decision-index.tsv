@@ -3005,7 +3005,7 @@ reference	path
 112 P.2d 215	decisions/arizona-supreme-court/1941/57-Ariz-150.md
 112 P.2d 218	decisions/arizona-supreme-court/1941/57-Ariz-162.md
 112 P.2d 578	decisions/arizona-supreme-court/1941/57-Ariz-179.md
-112 P.2d 581	decisions/arizona-supreme-court/1941/57-Ariz-179.md
+112 P.2d 581	decisions/arizona-supreme-court/1941/57-Ariz-188.md
 112 P.2d 584	decisions/arizona-supreme-court/1941/57-Ariz-173.md
 112 P.2d 587	decisions/arizona-supreme-court/1941/57-Ariz-193.md
 112 P.2d 589	decisions/arizona-supreme-court/1941/57-Ariz-199.md
@@ -3922,7 +3922,7 @@ reference	path
 12 Ariz. 1	decisions/arizona-supreme-court/1908/12-Ariz-1.md
 12 Ariz. 10	decisions/arizona-supreme-court/1908/12-Ariz-10.md
 12 Ariz. 104	decisions/arizona-supreme-court/1908/12-Ariz-104.md
-12 Ariz. 105	decisions/arizona-supreme-court/1908/11-Ariz-334.md
+12 Ariz. 105	decisions/arizona-supreme-court/1908/12-Ariz-105.md
 12 Ariz. 106	decisions/arizona-supreme-court/1908/12-Ariz-106--cap-8825540.md
 12 Ariz. 106	decisions/arizona-supreme-court/1908/12-Ariz-106.md
 12 Ariz. 107	decisions/arizona-supreme-court/1908/12-Ariz-107--cap-8825595.md
@@ -10880,7 +10880,7 @@ reference	path
 208 Ariz. 340	decisions/arizona-supreme-court/2004/208-Ariz-340--cap-1327348.md
 208 Ariz. 340	decisions/arizona-supreme-court/2004/208-Ariz-340.md
 208 Ariz. 345	decisions/arizona-supreme-court/2004/208-Ariz-345.md
-208 Ariz. 360	decisions/arizona-supreme-court/2004/208-Ariz-345.md
+208 Ariz. 360	decisions/arizona-supreme-court/2004/208-Ariz-360.md
 208 Ariz. 424	decisions/arizona-supreme-court/2004/208-Ariz-424.md
 208 Ariz. 509	decisions/arizona-supreme-court/2004/208-Ariz-509.md
 208 P.2d 1147	decisions/arizona-supreme-court/1949/69-Ariz-68.md
@@ -23282,7 +23282,7 @@ reference	path
 57 Ariz. 162	decisions/arizona-supreme-court/1941/57-Ariz-162.md
 57 Ariz. 173	decisions/arizona-supreme-court/1941/57-Ariz-173.md
 57 Ariz. 179	decisions/arizona-supreme-court/1941/57-Ariz-179.md
-57 Ariz. 188	decisions/arizona-supreme-court/1941/57-Ariz-179.md
+57 Ariz. 188	decisions/arizona-supreme-court/1941/57-Ariz-188.md
 57 Ariz. 193	decisions/arizona-supreme-court/1941/57-Ariz-193.md
 57 Ariz. 199	decisions/arizona-supreme-court/1941/57-Ariz-199.md
 57 Ariz. 208	decisions/arizona-supreme-court/1941/57-Ariz-208.md
@@ -31439,7 +31439,7 @@ reference	path
 93 P.3d 1056	decisions/arizona-supreme-court/2004/208-Ariz-340--cap-1327348.md
 93 P.3d 1056	decisions/arizona-supreme-court/2004/208-Ariz-340.md
 93 P.3d 1061	decisions/arizona-supreme-court/2004/208-Ariz-345.md
-93 P.3d 1076	decisions/arizona-supreme-court/2004/208-Ariz-345.md
+93 P.3d 1076	decisions/arizona-supreme-court/2004/208-Ariz-360.md
 93 P.3d 480	decisions/arizona-supreme-court/2004/208-Ariz-280.md
 93 P.3d 486	decisions/arizona-supreme-court/2004/208-Ariz-286.md
 93 P.3d 501	decisions/arizona-supreme-court/2004/208-Ariz-301.md
@@ -31805,7 +31805,7 @@ reference	path
 95 P. 182	decisions/arizona-supreme-court/1908/12-Ariz-55.md
 95 P. 187	decisions/arizona-supreme-court/1908/12-Ariz-69.md
 95 P. 192	decisions/arizona-supreme-court/1908/12-Ariz-84.md
-95 P. 803	decisions/arizona-supreme-court/1908/11-Ariz-334.md
+95 P. 803	decisions/arizona-supreme-court/1908/12-Ariz-105.md
 95 P.2d 415	decisions/arizona-supreme-court/1939/54-Ariz-295.md
 95 P.2d 424	decisions/arizona-supreme-court/1939/54-Ariz-316.md
 95 P.2d 49	decisions/arizona-supreme-court/1939/54-Ariz-266.md
@@ -32547,6 +32547,7 @@ CR-00-0544-AP	decisions/arizona-supreme-court/2003/205-Ariz-181.md
 CR-00-0544-AP	decisions/arizona-supreme-court/2003/206-Ariz-153.md
 CR-00-0569-PC	decisions/arizona-supreme-court/2002/202-Ariz-1.md
 CR-00-0595-AP	decisions/arizona-supreme-court/2004/208-Ariz-345.md
+CR-00-0595-AP	decisions/arizona-supreme-court/2004/208-Ariz-360.md
 CR-01-0053-PR	decisions/arizona-supreme-court/2001/200-Ariz-564.md
 CR-01-0089-PR	decisions/arizona-supreme-court/2001/200-Ariz-363.md
 CR-01-0091-AP	decisions/arizona-supreme-court/2003/205-Ariz-157.md
@@ -33180,7 +33181,6 @@ CR-97-0375-PR	decisions/arizona-supreme-court/1998/192-Ariz-448.md
 CR-97-0389-AP	decisions/arizona-supreme-court/1999/193-Ariz-452.md
 CR-97-0428-AP	decisions/arizona-supreme-court/2001/200-Ariz-267.md
 CR-97-0428-AP	decisions/arizona-supreme-court/2003/206-Ariz-150.md
-CR-97-0428-AP, CR-99-0536-AP, CR-99-0439-AP, CR-00-0328-AP, CR-00-0360-AP, CR-00-0447-AP, CR-01-0275-AP, CR-00-0508-AP, CR-00-0544-AP, CR-00-0595-AP, CR-01-0091-AP, CR-01-0100-AP, CR-01-0103-AP, CR-01-0129-AP, CR-01-0270-AP, CR-01-0421-AP, CR-02-0042-AP, CR-02-0044-AP, CR-99-0296-AP, CR-99-0551-AP, CR-99-0438-AP, CR-98-0289-AP, CR-98-0376-AP, CR-97-0317-AP, CR-98-0488-AP, CR-97-0349-AP, CR-98-0278AP	decisions/arizona-supreme-court/2003/204-Ariz-534.md
 CR-97-0471-AP.	decisions/arizona-supreme-court/1999/194-Ariz-408.md
 CR-98-0202-PR	decisions/arizona-supreme-court/1999/194-Ariz-373.md
 CR-98-0221-PR	decisions/arizona-supreme-court/2000/196-Ariz-188.md
@@ -34295,6 +34295,7 @@ Civil No. 1018	decisions/arizona-supreme-court/1908/11-Ariz-323.md
 Civil No. 1019	decisions/arizona-supreme-court/1908/11-Ariz-328.md
 Civil No. 1020	decisions/arizona-supreme-court/1908/12-Ariz-106.md
 Civil No. 1021	decisions/arizona-supreme-court/1908/11-Ariz-334.md
+Civil No. 1021	decisions/arizona-supreme-court/1908/12-Ariz-105.md
 Civil No. 1022	decisions/arizona-supreme-court/1908/11-Ariz-270.md
 Civil No. 1023	decisions/arizona-supreme-court/1908/11-Ariz-353.md
 Civil No. 1024	decisions/arizona-supreme-court/1908/11-Ariz-359.md
@@ -37297,6 +37298,7 @@ Civil No. 4271	decisions/arizona-supreme-court/1941/56-Ariz-469.md
 Civil No. 4272	decisions/arizona-supreme-court/1941/56-Ariz-556.md
 Civil No. 4273	decisions/arizona-supreme-court/1941/57-Ariz-173.md
 Civil No. 4274	decisions/arizona-supreme-court/1941/57-Ariz-179.md
+Civil No. 4274	decisions/arizona-supreme-court/1941/57-Ariz-188.md
 Civil No. 4275	decisions/arizona-supreme-court/1940/56-Ariz-149.md
 Civil No. 4276	decisions/arizona-supreme-court/1941/57-Ariz-157.md
 Civil No. 4277	decisions/arizona-supreme-court/1941/57-Ariz-142.md
@@ -38461,7 +38463,6 @@ Criminal No. 197	decisions/arizona-supreme-court/1905/9-Ariz-358.md
 Criminal No. 198	decisions/arizona-supreme-court/1905/9-Ariz-356.md
 Criminal No. 199	decisions/arizona-supreme-court/1905/9-Ariz-127.md
 Criminal No. 201	decisions/arizona-supreme-court/1905/9-Ariz-267.md
-Criminal No. 202; Criminal No. 203; Criminal No. 204; Criminal No. 205; Criminal No. 206; Criminal No. 207; Criminal No. 208; Criminal No. 210; Criminal No. 211; Criminal No. 212; Criminal No. 213; Criminal No. 214; Criminal No. 215; Criminal No. 216; Criminal No. 217; Criminal No. 218	decisions/arizona-supreme-court/1905/9-Ariz-352--cap-1547603.md
 Criminal No. 209	decisions/arizona-supreme-court/1905/9-Ariz-105.md
 Criminal No. 219	decisions/arizona-supreme-court/1905/9-Ariz-269.md
 Criminal No. 220	decisions/arizona-supreme-court/1905/9-Ariz-184.md
@@ -39354,10 +39355,7 @@ SB-90-0014-D; Disc. Comm. No. 87-0948	decisions/arizona-supreme-court/1990/165-A
 SB-90-0023-D; Disc. Comm. No. 88-0725	decisions/arizona-supreme-court/1990/164-Ariz-503.md
 SB-90-0026-D	decisions/arizona-supreme-court/1990/164-Ariz-43.md
 SB-90-0026-D	decisions/arizona-supreme-court/1990/164-Ariz-45.md
-SB-90-0026-D; Disc. Comm. Nos. 88-0441, 86-1243, 87-1636, 88-1128, 88-0407, 87-1258, 88-0034 and 84-0981	decisions/arizona-supreme-court/1990/164-Ariz-502.md
-SB-90-0026-D; Disc. Comm. Nos. 88-0441, 86-1243, 87-1636, 88-1128, 88-0407, 87-1258, 88-0034 and 84-0981	decisions/arizona-supreme-court/1992/170-Ariz-274.md
 SB-90-0031-D	decisions/arizona-supreme-court/1990/164-Ariz-165.md
-SB-90-0033-D; Disc. Comm. Nos. 88-0045, 88-0049, 88-0373, 88-0410, 88-0502, 88-0738, 88-0748, 88-1249, 88-1348, 88-1424, 88-1458, 88-1474, 88-1556, 88-1657, 88-1895, 89-0195, 89-0234, 89-0235 and 89-0393	decisions/arizona-supreme-court/1990/164-Ariz-497.md
 SB-90-0038-D; Comm. No. 89-1639	decisions/arizona-supreme-court/1992/172-Ariz-511.md
 SB-90-0043-D; Disciplinary Commission No. 5-2170	decisions/arizona-supreme-court/1992/171-Ariz-250.md
 SB-90-0044-D; Comm. No. 87-0030	decisions/arizona-supreme-court/1990/165-Ariz-299.md
@@ -39374,11 +39372,9 @@ SB-91-0019-D	decisions/arizona-supreme-court/1992/171-Ariz-539.md
 SB-91-0020-D; Disc. Comm. Nos. 87-0245, 88-0608 and 88-0984	decisions/arizona-supreme-court/1992/171-Ariz-544.md
 SB-91-0020-D; Disc. Comm. Nos. 87-0245, 88-0608 and 88-0984	decisions/arizona-supreme-court/1992/173-Ariz-1.md
 SB-91-0021-D; Disc. Comm. No. 89-0091	decisions/arizona-supreme-court/1991/169-Ariz-19.md
-SB-91-0027-D; Disc. Comm. Nos. 87-1466, 89-0990, 89-1284, 90-1887, 90-1943, 90-1979, 90-2273 and 91-0812	decisions/arizona-supreme-court/1991/169-Ariz-512--cap-1548089.md
 SB-91-0028-D	decisions/arizona-supreme-court/1993/174-Ariz-146.md
 SB-91-0028-D; Disc. Comm. Nos. 86-1450, 88-0836	decisions/arizona-supreme-court/1993/176-Ariz-535.md
 SB-91-0030-D; Disc. Comm. Nos. 88-1141, 88-1404, 88-1712, 88-1765 and 88-1912	decisions/arizona-supreme-court/1991/168-Ariz-448.md
-SB-91-0035-D; Disc. Comm. Nos. 88-1598, 88-1063, 89-0053, 88-1760, 88-1761, 89-1662 and 89-1867	decisions/arizona-supreme-court/1991/169-Ariz-56.md
 SB-91-0037-D	decisions/arizona-supreme-court/1992/170-Ariz-267.md
 SB-91-0038-R	decisions/arizona-supreme-court/1992/172-Ariz-255.md
 SB-91-0039-D	decisions/arizona-supreme-court/1991/169-Ariz-498.md
@@ -39392,7 +39388,6 @@ SB-91-0065-D; Disc. Comm. Nos. 89-0212, 89-1026	decisions/arizona-supreme-court/
 SB-92-0001-D, Disc. Comm. Nos. 88-1932, 89-0710	decisions/arizona-supreme-court/1994/179-Ariz-52.md
 SB-92-0001-D; Disciplinary Commission Nos. 88-1932 and 89-0710	decisions/arizona-supreme-court/1994/181-Ariz-307.md
 SB-92-0002-D; Disc. Comm. No. 87-1489	decisions/arizona-supreme-court/1992/172-Ariz-27.md
-SB-92-0010-D; Disc. Comm. Nos. 87-0574, 87-0625, 87-0629, 87-0655, 87-0793, 87-1257 and 88-1759	decisions/arizona-supreme-court/1992/170-Ariz-524.md
 SB-92-0012-D; Comm. No. 85-1368	decisions/arizona-supreme-court/1992/170-Ariz-522.md
 SB-92-0023-D; Disciplinary Commission Nos. 90-0786, 91-0663 and 92-0520	decisions/arizona-supreme-court/1992/171-Ariz-127.md
 SB-92-0028-D	decisions/arizona-supreme-court/1992/171-Ariz-548.md
@@ -39406,14 +39401,12 @@ SB-92-0047-D	decisions/arizona-supreme-court/1992/172-Ariz-394.md
 SB-92-0048-D; Comm. No. 92-0068	decisions/arizona-supreme-court/1992/172-Ariz-121.md
 SB-92-0051-D; Disc. Comm. Nos. 88-1885, 89-1460, 89-1998, 89-2069 and 90-0597	decisions/arizona-supreme-court/1994/180-Ariz-396.md
 SB-92-0052-D; Comm. No. 89-0624	decisions/arizona-supreme-court/1992/172-Ariz-501.md
-SB-92-0055-D; Disc. Comm. Nos. 88-1627, 89-0387, 89-0399, 89-0825, 89-1021, 89-1382, 89-1769, 89-2063, and 90-1359	decisions/arizona-supreme-court/1993/176-Ariz-334.md
 SB-92-0058-D; Disc. Comm. No. 90-0684	decisions/arizona-supreme-court/1992/173-Ariz-372.md
 SB-92-0065-D	decisions/arizona-supreme-court/1994/178-Ariz-133.md
 SB-92-0066-D; Comm. Nos. 89-1496, 89-1590	decisions/arizona-supreme-court/1992/173-Ariz-379.md
 SB-92-0067-D; Comm. No. 91-0373	decisions/arizona-supreme-court/1992/173-Ariz-382.md
 SB-92-0069-D; Comm. Nos. 89-1453, 89-1694, 89-1874 and 90-0009	decisions/arizona-supreme-court/1992/173-Ariz-376.md
 SB-92-0073-D; Comm. Nos. 89-1676, 89-1730 and 90-2170	decisions/arizona-supreme-court/1993/174-Ariz-61.md
-SB-93-0003-D; Comm. Nos. 90-0931, 91-0171, 91-0323, 91-0394, 91-0420, 91-0421 and 91-0469	decisions/arizona-supreme-court/1993/174-Ariz-9.md
 SB-93-0005-D; Comm. Nos. 89-0254, 89-0794	decisions/arizona-supreme-court/1993/174-Ariz-91.md
 SB-93-0007-D; Disc. Comm. Nos. 87-1586, 88-0285, 88-1644 and 89-0185	decisions/arizona-supreme-court/1993/174-Ariz-197.md
 SB-93-0009-D	decisions/arizona-supreme-court/1994/178-Ariz-400.md
@@ -39429,9 +39422,7 @@ SB-93-0027-D; Comm. No. 89-1589	decisions/arizona-supreme-court/1993/175-Ariz-37
 SB-93-0028-D; Comm. No. 90-1988	decisions/arizona-supreme-court/1993/175-Ariz-141.md
 SB-93-0029-D; Comm. No. 90-0042	decisions/arizona-supreme-court/1993/175-Ariz-142.md
 SB-93-0029-D; Disciplinary Commission No. 90-0042	decisions/arizona-supreme-court/1993/176-Ariz-113.md
-SB-93-0035-D. Disc. Comm. Nos. 90-1272, 90-1323, 90-1450, 90-1757, 90-1785, 90-1830, 90-1863, 91-0301, 91-0310, 91-0375, 91-0386, 91-0416, 91-0528, 91-0631, 91-0707, 91-0884, 91-0926, 91-0949, 91-0966, 91-0967, 91-0982, 91-1058, 91-1072, 91-1089, 91-1188, 91-1278, 91-1314 and 91-1497	decisions/arizona-supreme-court/1994/179-Ariz-216.md
 SB-93-0037-D; Comm. No. 92-0303	decisions/arizona-supreme-court/1993/176-Ariz-202.md
-SB-93-0038-D; Disc. Comm. Nos. 90-1885, 90-2005, 90-2208, 91-0906, 91-1136 and 91-1155	decisions/arizona-supreme-court/1993/176-Ariz-420.md
 SB-93-0040-D; Comm. No. 89-1573	decisions/arizona-supreme-court/1993/176-Ariz-199.md
 SB-93-0041-D; Disciplinary Commission No. 90-0381	decisions/arizona-supreme-court/1995/181-Ariz-288.md
 SB-93-0042-D; Comm. Nos. 89-1601, 90-0308	decisions/arizona-supreme-court/1993/175-Ariz-404.md
@@ -39451,9 +39442,7 @@ SB-94	decisions/arizona-supreme-court/1977/114-Ariz-321.md
 SB-94-0005-D; Comm. Nos. 90-1885, 90-2005, 90-2208, 91-0906, 91-1136 and 91-1155	decisions/arizona-supreme-court/1994/177-Ariz-305--cap-1462608.md
 SB-94-0008-D/Susp.; Disc. Comm. No. 92-1642	decisions/arizona-supreme-court/1994/178-Ariz-468.md
 SB-94-0009-D; Comm. Nos. 91-0393, 91-1279	decisions/arizona-supreme-court/1994/177-Ariz-581.md
-SB-94-0010-D; Comm. Nos. 89-1575, 91-0254, 91-1207, 91-1238, 91-1239, 91-1421, 91-1428, 91-1443, 91-1498, 91-1510, 91-1533, 91-2094, 91-2127, 91-2179, 91-2441 and 92-1015	decisions/arizona-supreme-court/1994/177-Ariz-586.md
 SB-94-0012-D; Comm.No. 91-1721	decisions/arizona-supreme-court/1994/177-Ariz-584.md
-SB-94-0013-D; Comm. Nos. 92-0474, 92-0514, 92-1003, 92-1144, 92-1429, 92-1491 and 92-1540	decisions/arizona-supreme-court/1994/178-Ariz-114.md
 SB-94-0015-D; Comm. No. 91-0140	decisions/arizona-supreme-court/1994/177-Ariz-311.md
 SB-94-0016-D; Comm. Nos. 90-0523, 90-1034 and 91-0539	decisions/arizona-supreme-court/1994/177-Ariz-362.md
 SB-94-0018-D; Comm. Nos. 90-1928, 90-2347 and 90-2383	decisions/arizona-supreme-court/1994/178-Ariz-257.md
@@ -39463,7 +39452,6 @@ SB-94-0023-D; Disc. Comm. Nos. 90-1512, 90-1942	decisions/arizona-supreme-court/
 SB-94-0025-D; Comm. No. 93-0808	decisions/arizona-supreme-court/1994/177-Ariz-547.md
 SB-94-0028-D; Comm. No. 0485	decisions/arizona-supreme-court/1994/178-Ariz-469.md
 SB-94-0031-D; Comm. No. 90-1944	decisions/arizona-supreme-court/1994/178-Ariz-550.md
-SB-94-0032-D; Comm. Nos. 90-2379, 91-1005, 91-1009, 91-1104, 91-1190, 91-1473, 91-1670, 91-1927, 91-1928, 91-2238, 91-2239, 91-2253, 92-0055, 92-0155, 92-0307, 92-0617, 92-0746, 92- 0852, 92-0885, 92-0936, 92-0960, 92-1046, 92-1229, 92-1341 and 92-1484	decisions/arizona-supreme-court/1994/178-Ariz-548.md
 SB-94-0034-D; Comm. No. 93-0821	decisions/arizona-supreme-court/1994/178-Ariz-261.md
 SB-94-0039-D; Comm. Nos. 92-0227, 92-0280 and 92-1133	decisions/arizona-supreme-court/1994/180-Ariz-41.md
 SB-94-0048-D. Comm. No. 91-0913	decisions/arizona-supreme-court/1994/179-Ariz-212.md
@@ -39482,14 +39470,12 @@ SB-94-0075-D; Comm. Nos. 92-1966, 93-0790 and 93-1918	decisions/arizona-supreme-
 SB-94-0076-D; Comm. No. 91-1270	decisions/arizona-supreme-court/1994/180-Ariz-515.md
 SB-94-0077-D; Comm. No. 92-1838	decisions/arizona-supreme-court/1994/180-Ariz-518.md
 SB-94-0078-D; Comm. No. 92-1207	decisions/arizona-supreme-court/1994/180-Ariz-145.md
-SB-94-0082-D; Disc. Comm. Nos. 91-0501, 91-1249, 91-1836, 91-1917, 91-2234, 92-0106, 92-0195 and 92-0765	decisions/arizona-supreme-court/1995/181-Ariz-289.md
 SB-94-0084-D	decisions/arizona-supreme-court/1995/181-Ariz-253.md
 SB-94-0085-D; Comm. Nos. 92-0984, 92-0985, 92-1108, 92-1143 and 92-1193	decisions/arizona-supreme-court/1995/181-Ariz-250.md
 SB-94-0086-D	decisions/arizona-supreme-court/1995/184-Ariz-256.md
 SB-94-0088-D; Comm. No. 93-0481	decisions/arizona-supreme-court/1995/181-Ariz-368.md
 SB-95-0004-D; Disc. Comm. No. 94-2443	decisions/arizona-supreme-court/1995/181-Ariz-289--cap-1466266.md
 SB-95-0005-D; Disciplinary Comm. No. 94-2444	decisions/arizona-supreme-court/1995/181-Ariz-288--cap-1466287.md
-SB-95-0007-D; Comm. Nos. 92-0738, 92-1128, 92-1438, 92-1635, 93-0097, 93-0134, 93-0296, 93-0756, 93-0803, 93-0871, 93-1763	decisions/arizona-supreme-court/1995/181-Ariz-525.md
 SB-95-0008-D; Comm. No. 93-0207	decisions/arizona-supreme-court/1995/181-Ariz-526.md
 SB-95-0014-R; Disc. Comm. No. 94-1582	decisions/arizona-supreme-court/1995/181-Ariz-356.md
 SB-95-0017-D; Disciplinary Comm. Nos. 91-1382, 92-0175 and 93-0488	decisions/arizona-supreme-court/1995/183-Ariz-74.md
@@ -39498,15 +39484,12 @@ SB-95-0022-D	decisions/arizona-supreme-court/1997/189-Ariz-144.md
 SB-95-0051-D; Disc. Comm. No. 91-1810	decisions/arizona-supreme-court/1996/185-Ariz-197.md
 SB-95-0055-D.; Disc. Comm. No. 91-1053	decisions/arizona-supreme-court/1997/188-Ariz-375--cap-195598.md
 SB-96	decisions/arizona-supreme-court/1976/113-Ariz-394.md
-SB-96-0003-D; Disc. Comm. Nos. 91-1753, 92-0011, 92-0605, 92-0758, 92-0789, 92-0979, 92-0932, 92-1009 and 93-0689	decisions/arizona-supreme-court/1996/186-Ariz-370--cap-1505938.md
 SB-96-0043-D	decisions/arizona-supreme-court/2000/198-Ariz-539.md
 SB-96-0049-D. Disc. Comm. Nos. 93-0095, 94-0385 and 94-0368	decisions/arizona-supreme-court/1997/189-Ariz-119.md
 SB-96-0064-D; Disc. Comm. Nos. 91-0843 and 91-1522	decisions/arizona-supreme-court/1997/191-Ariz-24.md
-SB-97-0003-D; Disc. Comm. Nos. 89-0868, 90-1307, 91-1015, 93-0378, 93-0712, 93-1403, 93-1609, 93-1787, 93-1806, 93-1831, 94-0392, 94-0853, 94-0859, 94-0863, 94-0864, 94-0959, 94- 0973, 94-0977, 94-1065, 94-1215, 94-1227, 94-1708, 94-1755 and 95-0305	decisions/arizona-supreme-court/1998/192-Ariz-40.md
 SB-97-0068-R	decisions/arizona-supreme-court/1997/190-Ariz-157.md
 SB-98-0056-D.	decisions/arizona-supreme-court/1999/194-Ariz-453.md
 ST 93-00021	decisions/arizona-tax-court/1993/176-Ariz-307.md
-Supreme Court No. SB-93-0051-D; Disciplinary Commission Nos. 88-1821, 89-1466 and 90-0726	decisions/arizona-supreme-court/1994/178-Ariz-283.md
 TX 1997-000075	decisions/arizona-tax-court/2003/204-Ariz-352.md
 TX 2001-000616	decisions/arizona-tax-court/2003/205-Ariz-427.md
 TX 2001-000630	decisions/arizona-tax-court/2003/205-Ariz-442.md
@@ -39577,9 +39560,6 @@ WC-07-0002-IR	decisions/arizona-supreme-court/2007/217-Ariz-276.md
 WC-11-0001-IR	decisions/arizona-supreme-court/2012/231-Ariz-8.md
 WC-90-0001-IR	decisions/arizona-supreme-court/1992/171-Ariz-230.md
 WC-90-0001-IR, WC-90-0001-IR to WC-90-0007-IR and WC-79-0001 to WC-79-0004	decisions/arizona-supreme-court/1993/175-Ariz-382.md
-WC-90-0001-IR, WC-90-0002-IR, WC-90-0003-IR, WC-90-0004-IR, WC-90-0005-IR, W C-90-0006-IR, WC-90-0007-IR, WC-79-0001, WC-79-0002, WC-79-0003, WC-79-0004	decisions/arizona-supreme-court/2000/198-Ariz-330.md
-WC-90-0001-IR, WC-90-0002-IR, WC-90-0003-IR, WC-90-0004-IR, WC-90-0005-IR, WC-90-0006-IR, WC-90-0007-IR, WC-79-0001, WC-79-0002, WC-79-0003, WC-79-0004	decisions/arizona-supreme-court/1999/195-Ariz-411.md
-WC-90-0001-IR, WC-90-0004-IR, WC-90-0007-IR, WC-90-0002-IR, WC-90-0005-IR, WC-79-0001, WC-90-0003IR, WC-90-0006-IR, WC-79-0002-IR	decisions/arizona-supreme-court/2001/201-Ariz-307.md
 [Civil No. 4512	decisions/arizona-supreme-court/1943/60-Ariz-544.md
 cap-1032551	decisions/arizona-supreme-court/1997/189-Ariz-119.md
 cap-1032567	decisions/arizona-supreme-court/1997/189-Ariz-212.md
@@ -39756,6 +39736,7 @@ cap-1327344	decisions/arizona-supreme-court/2004/208-Ariz-509.md
 cap-1327348	decisions/arizona-supreme-court/2004/208-Ariz-340--cap-1327348.md
 cap-1327357	decisions/arizona-supreme-court/2004/208-Ariz-229.md
 cap-1327361	decisions/arizona-supreme-court/2004/208-Ariz-232.md
+cap-1327364	decisions/arizona-supreme-court/2004/208-Ariz-360.md
 cap-1327369	decisions/arizona-supreme-court/2004/208-Ariz-27.md
 cap-1327371	decisions/arizona-supreme-court/2004/208-Ariz-345.md
 cap-1327373	decisions/arizona-supreme-court/2004/208-Ariz-340.md
@@ -43120,6 +43101,7 @@ cap-2436059	decisions/arizona-supreme-court/1941/57-Ariz-85.md
 cap-2436103	decisions/arizona-supreme-court/1941/57-Ariz-118.md
 cap-2436148	decisions/arizona-supreme-court/1941/57-Ariz-276.md
 cap-2436203	decisions/arizona-supreme-court/1941/57-Ariz-295.md
+cap-2436264	decisions/arizona-supreme-court/1941/57-Ariz-188.md
 cap-2436310	decisions/arizona-supreme-court/1941/57-Ariz-490.md
 cap-2436358	decisions/arizona-supreme-court/1941/57-Ariz-119.md
 cap-2436398	decisions/arizona-supreme-court/1941/57-Ariz-14.md
@@ -44622,6 +44604,7 @@ cap-4324288	decisions/arizona-supreme-court/2014/234-Ariz-1.md
 cap-4324362	decisions/arizona-supreme-court/2013/234-Ariz-31.md
 cap-4324412	decisions/arizona-supreme-court/2014/234-Ariz-497.md
 cap-4324574	decisions/arizona-supreme-court/2014/234-Ariz-250.md
+cap-4324600	decisions/arizona-supreme-court/2014/237-Ariz-98.md
 cap-4324620	decisions/arizona-supreme-court/2014/234-Ariz-322.md
 cap-4324754	decisions/arizona-supreme-court/2014/234-Ariz-340.md
 cap-4324849	decisions/arizona-supreme-court/2014/234-Ariz-590.md
@@ -51953,6 +51936,7 @@ cap-713826	decisions/arizona-supreme-court/1983/136-Ariz-608.md
 cap-713829	decisions/arizona-supreme-court/1983/136-Ariz-491.md
 cap-713831	decisions/arizona-supreme-court/1983/136-Ariz-45.md
 cap-713835	decisions/arizona-supreme-court/1983/136-Ariz-365.md
+cap-713836	decisions/arizona-supreme-court/1983/139-Ariz-576.md
 cap-713837	decisions/arizona-supreme-court/1983/136-Ariz-304.md
 cap-713840	decisions/arizona-supreme-court/1983/136-Ariz-326.md
 cap-713843	decisions/arizona-supreme-court/1983/136-Ariz-522.md
@@ -52884,6 +52868,7 @@ cap-8825362	decisions/arizona-supreme-court/1908/12-Ariz-84.md
 cap-8825415	decisions/arizona-supreme-court/1908/12-Ariz-85.md
 cap-8825442	decisions/arizona-supreme-court/1908/12-Ariz-99.md
 cap-8825455	decisions/arizona-supreme-court/1908/12-Ariz-104.md
+cap-8825497	decisions/arizona-supreme-court/1908/12-Ariz-105.md
 cap-8825526	decisions/arizona-supreme-court/1908/12-Ariz-106.md
 cap-8825540	decisions/arizona-supreme-court/1908/12-Ariz-106--cap-8825540.md
 cap-8825569	decisions/arizona-supreme-court/1908/12-Ariz-107.md
